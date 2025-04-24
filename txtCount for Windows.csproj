@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net472</TargetFramework>
+		<RootNamespace>txtCount_for_Windows</RootNamespace>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ApplicationIcon>txtCount.ico</ApplicationIcon>
+		<AssemblyName>txtCount</AssemblyName>
+		<PackageId>txtCount</PackageId>
+		<Company />
+		<Copyright>Copyright © thrashem 2025</Copyright>
+	</PropertyGroup>
+	<ItemGroup>
+		<Content Include="txtCount.ico" />
+	</ItemGroup>
+</Project>
